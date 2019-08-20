@@ -13,3 +13,4 @@ The AFLW directory in this repository is empty. Trained models are included in t
 With the images and database correctly located, the main training file train.py will begin training iteratively over all network architectures and resolutions specified.
 Augmentation.py and numcomponents.py run other training procedures.
 Display_all_results.py does just that.
+Finaltest.py loads a trained model (currently the Inception-v3, input resolution 149x149 pixels) and evaluates it on the unused final test set.
