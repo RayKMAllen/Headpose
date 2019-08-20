@@ -8,7 +8,7 @@ To use with AFLW, use the script that comes with the unzipped dataset to extract
 
 e.g. 32x32 images on my Windows 10 computer are in C:\Users\Ray\py3\Headpose\AFLW\data\rescaled\32\all.
 
-The AFLW directory in this repository is empty. Trained models are included in the saves directory.
+The AFLW directory in this repository is empty. If you wish to save your results, add a 'saves/mainresults' folder in the root directory.
 
 With the images and database correctly located, the main training file train.py will begin training iteratively over all network architectures and resolutions specified.
 Augmentation.py and numcomponents.py run other training procedures.
