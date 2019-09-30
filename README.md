@@ -1,4 +1,4 @@
-This repository accompanies my MSc thesis 'Probabilistic Head Pose Estimation'. It contains the main Python scripts needed to reproduce results.
+This repository accompanies my MSc thesis 'Probabilistic Head Pose Estimation'. It contains the main Python scripts needed to reproduce results, as well as a copy of the thesis for reference.
 
 The data getter/generator is designed for the AFLW dataset, which is available for research purposes from https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/.
 Annotations are extracted from the SQLite database. To use with another dataset, the data getter will need to be adapted.
